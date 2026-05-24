@@ -893,6 +893,16 @@ CUTOFF_PRESETS = {
         "Fr": 7.5,
         "Cs": 7.5,
         "Rn": 7.5,
+    # === extend CUTOFF_2L for from-scratch (added by prepare_scratch_arch.py) ===
+    "Ac": 6.0,
+    "Am": 6.2,
+    "At": 6.0,
+    "Np": 6.0,
+    "Pa": 6.0,
+    "Pu": 6.0,
+    "Th": 6.0,
+    "U": 6.0,
+    # === end CUTOFF_2L extension ===
     },
 }
 
